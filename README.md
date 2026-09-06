@@ -124,23 +124,30 @@ Mechanical adjustments and sensor calibration were performed throughout developm
 
 ### Construction
 
-![Hovercraft Construction](media/construction.jpg)
+The hovercraft chassis and mechanical structure were assembled and adjusted throughout the development process.
 
-### Sensor and Navigation Testing
+![Hovercraft Construction](media/Construction.png)
 
-![Sensor and Navigation Testing](media/testing.jpg)
+### Hardware
 
-### Final Hovercraft
+The final hardware setup included the Arduino controller, distance sensors, lift and propulsion systems, motor-control electronics, and onboard power system.
 
-![Final Hovercraft](media/final_hovercraft.jpg)
+![Hovercraft Hardware](media/Hardware.png)
+
+### Calibration and Testing
+
+Sensor readings and the hovercraft's response were tested and calibrated before the final autonomous navigation demonstration.
+
+- [▶ Watch calibration video](media/Calliberation.MOV)
+- [▶ Watch testing video](media/Test.MOV)
 
 ---
 
 ## Final Demonstration
 
-A video of the completed hovercraft navigating the test environment can be added below.
+The completed hovercraft was tested in the final environment to demonstrate autonomous movement, obstacle detection, steering, and maze navigation.
 
-**Demo:** [Add video link]
+[▶ Watch the final hovercraft demonstration](media/Demonstration.MOV)
 
 ---
 
